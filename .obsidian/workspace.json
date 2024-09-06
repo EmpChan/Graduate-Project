@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "5ef7584e471713ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce7c4e378d2fe02d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701556cf2828f0fc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "✏️ToDos.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b7b3b951b61850b",
+    "type": "split",
+    "children": [
+      {
+        "id": "779bec9a48d88e62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5e4fb9cd0f2516b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c15f36ce035d40a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc6bb244cb50ed9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e50bf65f8c417ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e601ad332ff8658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a74363c1a6d8dfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "✏️ToDos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f8984dfdfa6740c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "✏️ToDos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7665c1468aca21ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df5bab5b9d201888",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✏️ToDos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c5e4fb9cd0f2516b",
+  "lastOpenFiles": [
+    "Untitled",
+    "Documents/Team Information.md",
+    "README.md",
+    "kyc",
+    "pch",
+    "EmpChan",
+    "Documents",
+    "Untitled.md",
+    "✏️ToDos.md",
+    "Untitled Kanban.md"
+  ]
+}
