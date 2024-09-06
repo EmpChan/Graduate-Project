@@ -11,17 +11,11 @@
             "id": "701556cf2828f0fc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "✏️ToDos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Capstone Design/Team Information.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ToDos.md",
+                "file": "Capstone Design/Team Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ToDos.md",
+                "file": "Capstone Design/Team Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ToDos.md"
+                "file": "Capstone Design/Team Information.md"
               }
             }
           }
@@ -156,8 +150,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5e4fb9cd0f2516b",
+  "active": "701556cf2828f0fc",
   "lastOpenFiles": [
+    "✏️ToDos.md",
     "Software Engineering",
     "Capstone Design/Team Information.md",
     "README.md",
@@ -166,7 +161,6 @@
     "EmpChan",
     "Capstone Design",
     "Untitled.md",
-    "✏️ToDos.md",
     "Untitled Kanban.md"
   ]
 }
