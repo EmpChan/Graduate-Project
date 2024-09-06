@@ -1,5 +1,5 @@
 # Team 
-## Team leader 
+## Team Leader 
 - Name : Hwang Jaechan 
 - Student ID : 2020039040
 - Major : The Department of Computer Science 
