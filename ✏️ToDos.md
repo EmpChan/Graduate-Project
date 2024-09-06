@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## To Do List
 
+- [ ] ㅋㅋ
 
 
 ## Processing
