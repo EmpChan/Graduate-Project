@@ -11,6 +11,7 @@ kanban-plugin: board
 
 ## Processing
 
+- [ ] 야미
 
 
 ## Done
