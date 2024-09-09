@@ -134,13 +134,21 @@
                 "file": "✏️ToDos.md"
               }
             }
+          },
+          {
+            "id": "fe57e299665191ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e515d7d40b20f6eb",
+  "active": "c5e4fb9cd0f2516b",
   "lastOpenFiles": [
     "Capstone Design/Team Information.md",
     "✏️ToDos.md",
