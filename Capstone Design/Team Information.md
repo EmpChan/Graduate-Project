@@ -9,6 +9,6 @@
 - Student ID : 2020039007
 - Major : The Department of Computer Science
 
-- Name : Park Chanhyeok
+- Name : Park Chanhyuk
 - Student ID : 2020039066
 - Major : The Department of Computer Science
